@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548032984534,
+            "changeTime": 1548032984534,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548032984534,
+            "changeTime": 1548032984534,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548033553770,
+            "changeTime": 1548033553770,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548032984534,
+            "changeTime": 1548032984534,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548033546603,
+            "changeTime": 1548033546603,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects\\Opportunity\\fields\\myTest__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects\\Opportunity\\fields\\myTest__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 408,
+            "modifiedTime": 1548033553695,
+            "changeTime": 1548033553695,
+            "contentHash": "4161b0e2577d6a80a75f5126cbef1d4703c0373e"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8429,
+            "modifiedTime": 1548033553710,
+            "changeTime": 1548033553710,
+            "contentHash": "b80319345232b43ab5aa8a11fde1b642e98f6d96"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8477,
+            "modifiedTime": 1548033553725,
+            "changeTime": 1548033553725,
+            "contentHash": "a53756153e089fc985a28ee2a1eb65d4ab086d45"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8437,
+            "modifiedTime": 1548033553739,
+            "changeTime": 1548033553739,
+            "contentHash": "787aa7915c03ae969a9d02a10c51b9778a16acb8"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8340,
+            "modifiedTime": 1548033553754,
+            "changeTime": 1548033553754,
+            "contentHash": "2c8fb1e8ea7c76d44eb1312c48472f469998c89c"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18122,
+            "modifiedTime": 1548033553784,
+            "changeTime": 1548033553784,
+            "contentHash": "0227c70f0283a16d4c5ffe064f4ad1d303a553dc"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4598,
+            "modifiedTime": 1548033553813,
+            "changeTime": 1548033553813,
+            "contentHash": "84e6af79ac5334d107d35948c85cbb7316812413"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4602,
+            "modifiedTime": 1548033553821,
+            "changeTime": 1548033553821,
+            "contentHash": "0f73e7f1d4cdec9619a45eaf717f5ac3a0891431"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4938,
+            "modifiedTime": 1548033553829,
+            "changeTime": 1548033553829,
+            "contentHash": "87e12fbe9e59f81b0074613864012d0d2b1ec7ad"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548033553689,
+            "changeTime": 1548033553689,
+            "contentHash": "431a9b023ddec9c52befb4dd4d62ae1da8b6bd53"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548033553687,
+            "changeTime": 1548033553687,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548033553687,
+            "changeTime": 1548033553687,
+            "contentHash": "ff325cb88fd1a08d7f1faf3e0187331c07064241"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548033553747,
+            "changeTime": 1548033553747,
+            "contentHash": "c5ade36d37288035b03b0a902c5324ccab128aba"
+        }
+    ],
+    [
+        "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\komagome\\MySFDC\\testdx\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548033553827,
+            "changeTime": 1548033553827,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
